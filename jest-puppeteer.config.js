@@ -1,8 +1,10 @@
+const chromePaths = require('chrome-paths')
+
 module.exports = {
   launch: {
     headless: false,
     slowMo: 250,
     timeout: 0,
-    executablePath: '/usr/bin/google-chrome-stable',
+    executablePath: chromePaths.chrome,
   },
 }

@@ -12,6 +12,7 @@
     "puppeteer-core": "^1.10.0"
   },
   "dependencies": {
+    "chrome-paths": "^1.0.0",
     "module-alias": "^2.1.0"
   },
   "_moduleAliases": {
