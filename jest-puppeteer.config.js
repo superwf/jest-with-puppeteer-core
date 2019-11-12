@@ -1,3 +1,4 @@
+require('module-alias/register')
 const chromePaths = require('chrome-paths')
 
 module.exports = {

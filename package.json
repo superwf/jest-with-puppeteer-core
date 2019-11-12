@@ -6,9 +6,9 @@
   "author": "superwf <superwf@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^23.6.0",
-    "jest-environment-puppeteer": "^3.5.1",
-    "jest-puppeteer": "^3.5.1",
+    "jest": "^24.9.0",
+    "jest-environment-puppeteer": "^4.3.0",
+    "jest-puppeteer": "^4.3.0",
     "puppeteer-core": "^1.10.0"
   },
   "dependencies": {
